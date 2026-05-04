@@ -22,7 +22,7 @@
     "name": "Access Control in Databases",
     "short-name": "db-access-control",
     "repo": "https://github.com/virtual-labs/exp-db-access-control-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -78,7 +78,7 @@
     "name": "Honeypots for Database Attack Detection",
     "short-name": "db-honeypot-intrusion-detection",
     "repo": "https://github.com/virtual-labs/exp-db-honeypot-intrusion-detection-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
